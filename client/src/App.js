@@ -1,11 +1,29 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { ApolloProvider } from '@apollo/react-hooks';
+import ApolloClient from 'apollo-boost';
+
 import SearchBooks from './pages/SearchBooks';
 import SavedBooks from './pages/SavedBooks';
 import Navbar from './components/Navbar';
 
+//Create an Apollo Provider to make every request work with the Apollo Server
+const client = new ApolloClient({
+  request: operation => {
+    const token = localStorage.getItem('id_token');
+
+    operation.setContext({
+      headers: {
+        autorization: token ? `Bearer ${token}` : ''
+      }
+    });
+  },
+});
+
 function App() {
   return (
+    //Create an Apollo Provider to make every request work with the Apollo Server
+    <ApolloProvider client={client}>
     <Router>
       <>
         <Navbar />
@@ -16,6 +34,7 @@ function App() {
         </Switch>
       </>
     </Router>
+    </ApolloProvider>
   );
 }
 
