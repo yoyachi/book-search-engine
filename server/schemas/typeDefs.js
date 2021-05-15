@@ -1,4 +1,4 @@
-//Apollo Server requires wrapping your schema with gql.
+// import the gql tagged template function
 const { gql } = require('apollo-server-express');
 
 // create our typeDefs
