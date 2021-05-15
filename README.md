@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Book-Search-Engine / MERN
 
 ## Description
@@ -45,3 +46,12 @@ In order to start the server you should run `npm start`.  Then it will show appl
 
 **MIT** license
 ![Bower](https://img.shields.io/bower/l/MI)
+=======
+# book-search-engine MERN application
+
+
+
+
+
+
+>>>>>>> develop
