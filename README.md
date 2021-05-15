@@ -38,16 +38,8 @@ In order to start the server you should run `npm start`.  Then it will show appl
 
 
 ## Snapshot
-<img width="956" alt="Screen Shot 2021-05-15 at 3 31 26 PM" src="https://user-images.githubusercontent.com/69886471/118377408-af8c6b00-b592-11eb-8718-564e15ac79d6.png">
 
 
-![Screen Shot 2021-05-15 at 2 44 49 PM](https://user-images.githubusercontent.com/69886471/118377511-43f6cd80-b593-11eb-8e39-dc3be287b508.png)
-<img width="956" alt="Screen Shot 2021-05-15 at 3 38 12 PM" src="https://user-images.githubusercontent.com/69886471/118377560-99cb7580-b593-11eb-82fc-acb0a0d366d7.png">
-
-<img width="956" alt="Screen Shot 2021-05-15 at 11 44 00 AM" src="https://user-images.githubusercontent.com/69886471/118371945-91b00d80-b574-11eb-9e3f-5db64f67d305.png">
-![Screen Shot 2021-05-15 at 2 44 49 PM](https://user-images.githubusercontent.com/69886471/118377246-bff01600-b591-11eb-92d3-6ccf3e9c1c77.png)
-
-<img width="956" alt="Screen Shot 2021-05-15 at 3 40 53 PM" src="https://user-images.githubusercontent.com/69886471/118377632-021a5700-b594-11eb-8b61-b819946f76ab.png">
 
 ## License
 
