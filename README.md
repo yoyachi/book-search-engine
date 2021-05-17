@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Book-Search-Engine / MERN
 
 ## Description
