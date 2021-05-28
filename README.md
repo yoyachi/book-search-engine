@@ -49,7 +49,6 @@ https://github.com/yoyachi/book-search-engine
 ![Screen Shot 2021-05-16 at 10 35 09 PM](https://user-images.githubusercontent.com/69886471/118430539-e39e8380-b699-11eb-9e17-40d2c92acdd1.png)
 ![Screen Shot 2021-05-16 at 10 40 35 PM](https://user-images.githubusercontent.com/69886471/118430550-ed27eb80-b699-11eb-8ccf-4b6f8adb7c14.png)## License
 
-## License
 
 **MIT** license
 ![Bower](https://img.shields.io/bower/l/MI)
