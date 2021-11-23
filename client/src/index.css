@@ -9,9 +9,15 @@ h4,
 h5,
 h6 {
   font-family: 'Rubik Mono One', sans-serif;
+  color: aqua;
 }
 
 .small {
   font-weight: 300;
   font-style: italic;
+}
+
+.btn-success {
+  background-color: rgb(204, 127, 255);
+  border-color: rgb(204, 127, 255);
 }
