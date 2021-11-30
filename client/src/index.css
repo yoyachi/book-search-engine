@@ -21,3 +21,8 @@ h6 {
   background-color: rgb(204, 127, 255);
   border-color: rgb(204, 127, 255);
 }
+
+.navbar-dark .navbar-nav .nav-link{
+  color: rgb(203, 187, 214);
+
+}
