@@ -28,8 +28,9 @@ h6 {
 }
 
 .container {
-  background-color: snow;
+  background-color: rgb(224, 213, 213);
   border-radius: 10px;
+  border-color: rgb(224, 213, 213);
   padding: 20px;
 }
 
