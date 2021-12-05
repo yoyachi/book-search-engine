@@ -36,5 +36,11 @@ h6 {
 
 .container-fluid {
   background-color: slategray;
+  padding-right: 10px;
 }
 
+.navbar-brand {
+  padding-left: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-color: slategray;
+}
