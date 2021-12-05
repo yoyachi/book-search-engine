@@ -9,7 +9,7 @@ h4,
 h5,
 h6 {
   font-family: 'Rubik Mono One', sans-serif;
-  color: rgb(79, 78, 160);
+  color: #E6DDC4;
 }
 
 .small {
@@ -18,17 +18,17 @@ h6 {
 }
 
 .btn-success {
-  background-color: rgb(204, 127, 255);
-  border-color: rgb(204, 127, 255);
+  background-color: #867745;
+  border-color: #b3ab93;
+  
 }
 
-.navbar-dark .navbar-nav .nav-link{
-  color: rgb(240, 236, 243);
-
+.btn-btn-success-btn-lg {
+  background-color: #F0E9D2!important;
 }
 
 .container {
-  background-color: rgb(224, 213, 213);
+  background-color: #678983;
   border-radius: 10px;
   border-color: rgb(224, 213, 213);
   padding: 20px;
@@ -43,4 +43,8 @@ h6 {
   padding-left: 10px;
   font-family: Arial, Helvetica, sans-serif;
   border-color: slategray;
+}
+
+.bg-dark {
+  background-color: #181D31!important;
 }
