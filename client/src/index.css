@@ -18,14 +18,16 @@ h6 {
 }
 
 .btn-success {
-  background-color: #867745;
-  border-color: #b3ab93;
-  
+  background-color: #867745!important;
+
 }
 
-.btn-btn-success-btn-lg {
-  background-color: #F0E9D2!important;
+.btn-large {
+  background-color: #E6DDC4;
+  border-color: #e7e4db;
 }
+
+
 
 .container {
   background-color: #678983;
@@ -47,4 +49,24 @@ h6 {
 
 .bg-dark {
   background-color: #181D31!important;
+}
+
+.btn-lg {
+  background-color: #c5b78f;
+  border-color: #e7e4db;
+}
+
+.btn-lg:hover {
+  background-color: #E6DDC4;
+  
+}
+
+.nav-pills .nav-link.active {
+  color: #f4f0e5;
+  background-color: #928663;
+}
+
+a {
+  color: #9e8d5b;
+  pointer-events: fill;
 }
