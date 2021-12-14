@@ -10,6 +10,7 @@ h5,
 h6 {
   font-family: 'Rubik Mono One', sans-serif;
   color: #E6DDC4;
+  
 }
 
 .small {
@@ -18,7 +19,7 @@ h6 {
 }
 
 .btn-success {
-  background-color: #867745!important;
+  background-color: #b19333!important;
 
 }
 
@@ -30,9 +31,9 @@ h6 {
 
 
 .container {
-  background-color: #678983;
+  background-color: #6e968ee5;
   border-radius: 10px;
-  border-color: rgb(224, 213, 213);
+  border-color: rgb(247, 243, 243);
   padding: 20px;
 }
 
@@ -70,3 +71,5 @@ a {
   color: #9e8d5b;
   pointer-events: fill;
 }
+
+
