@@ -28,7 +28,9 @@ h6 {
   border-color: #e7e4db;
 }
 
-
+.border-dark {
+  border-color: rgb(181, 192, 215) !important;
+}
 
 .container {
   background-color: #6e968ee5;
@@ -40,6 +42,10 @@ h6 {
 .container-fluid {
   background-color: slategray;
   padding-right: 10px;
+}
+
+{
+  border-radius: 1rem;
 }
 
 .navbar-brand {
@@ -68,6 +74,10 @@ h6 {
 }
 .show {
   padding-left: 10px;
+}
+
+.modal-content {
+  border-radius: 1rem !important;
 }
 a {
   color: #9e8d5b;
