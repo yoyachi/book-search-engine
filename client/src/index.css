@@ -46,10 +46,11 @@ h6 {
 }
 
 
+
 .navbar-brand {
   padding-left: 10px;
   font-family: Arial, Helvetica, sans-serif;
-  border-color: slategray;
+
 }
 
 .bg-dark {
@@ -84,6 +85,10 @@ h6 {
 
 .card-img-top {
   border-radius: 1rem;
+}
+
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark {
+  background: beige!important;
 }
 
 a {
