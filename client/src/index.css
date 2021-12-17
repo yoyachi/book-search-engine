@@ -12,7 +12,6 @@ h6 {
   color: #E6DDC4;
   
 }
-
 .small {
   font-weight: 300;
   font-style: italic;
@@ -42,7 +41,8 @@ h6 {
 
 .container-fluid {
   background-color: slategray;
-  padding-right: 10px;
+  padding-right: 5px;
+  border-radius: 0.5rem;
 }
 
 
@@ -88,7 +88,8 @@ h6 {
 }
 
 nav.navbar.navbar-expand-lg.navbar-dark.bg-dark {
-  background: beige!important;
+  background: rgb(141, 141, 109)!important;
+  padding: 8px 8px!important;
 }
 
 a {
