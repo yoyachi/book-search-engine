@@ -13,6 +13,8 @@ h5,
 h6 {
   font-family: 'Rubik Mono One', sans-serif;
   color: #E6DDC4;
+  font-weight: 100!important;
+
   
 }
 .small {
@@ -22,6 +24,7 @@ h6 {
 
 .btn-success {
   background-color: #b19333!important;
+  border-radius: 0!important;
 
 }
 
@@ -36,7 +39,7 @@ h6 {
 }
 
 .container {
-  background-color: #6e968ee5;
+  background-color: ;
   border-radius: 0px;
   border-color: rgb(247, 243, 243);
   padding: 30px ;
@@ -87,11 +90,17 @@ h6 {
 }
 
 .card {
-  border-radius: 1rem;
+  border-width: 0.3rem;
+  border-color: rgba(128, 128, 128, 0.098)!important;
+  border-radius: 0rem;
 }
 
 .card-img-top {
-  border-radius: 1rem;
+  border-radius: 0rem;
+}
+
+.form-control-lg {
+  border-radius: 0;
 }
 
 nav.navbar.navbar-expand-lg.navbar-dark.bg-dark {
