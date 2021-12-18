@@ -25,14 +25,14 @@ h6 {
 .btn-success {
   background-color: #b19333!important;
   border-radius: 0!important;
+  border-color: gainsboro!important;
 
 }
 
-.btn-large {
-  background-color: #E6DDC4;
-  border-color: #e7e4db;
+.btn-danger{
+  background-color: rgb(235, 83, 18);
+  border-color: rgb(255, 77, 0);;
 }
-
 .border-dark {
   border-color: rgb(181, 192, 215) !important;
 
@@ -103,9 +103,12 @@ h6 {
   border-radius: 0rem;
 }
 
+
 .form-control-lg {
   border-radius: 0;
 }
+
+
 
 nav.navbar.navbar-expand-lg.navbar-dark.bg-dark {
   background: rgb(141, 141, 109)!important;
