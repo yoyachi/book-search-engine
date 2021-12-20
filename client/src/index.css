@@ -101,21 +101,24 @@ h6 {
   border-radius: 0rem;
 }
 
+.container {
+  background-color: 323232!important;;
+  border-radius: 0rem;
+  position: relative;
+  animation-name: myAnimation;
+  animation-duration: 4s;
 
-.form-control-lg {
-  border-radius: 0;
+}
+
+@keyframes  myAnimation {
+  0% {background-color: 323232!important;}
+  25% {background-color: #8E806A;}
+  50% {background-color: #C3B091;}
+  75% {background-color: #E4CDA7;}
+  100% {background-color: 323232!important;}
 }
 
 
 
-nav.navbar.navbar-expand-lg.navbar-dark.bg-dark {
-  background: rgb(141, 141, 109)!important;
-  padding: 0!important;
-}
-
-a {
-  color: #9e8d5b;
-  pointer-events: fill;
-}
 
 
