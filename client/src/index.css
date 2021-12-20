@@ -12,8 +12,12 @@ h4,
 h5,
 h6 {
   font-family: 'Rubik Mono One', sans-serif;
-  color: #E6DDC4;
+  color: #bdb08b;
   
+}
+
+hr {
+  border: 3px solid  #746b6b;
 }
 .small {
   font-weight: 300;
@@ -105,8 +109,9 @@ h6 {
   background-color: 323232!important;;
   border-radius: 0rem;
   position: relative;
+  /*must do for animation*/
   animation-name: myAnimation;
-  animation-duration: 4s;
+  animation-duration: 3s;
 
 }
 

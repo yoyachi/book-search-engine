@@ -49,6 +49,7 @@ const SavedBooks = () => {
         </Container>
       </Jumbotron>
       <Container>
+        <hr />
         <h2>
           {userData.savedBooks.length
             ? `Viewing ${userData.savedBooks.length} saved ${userData.savedBooks.length === 1 ? 'book' : 'books'}:`
