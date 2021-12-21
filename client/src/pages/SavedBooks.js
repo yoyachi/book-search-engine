@@ -72,6 +72,7 @@ const SavedBooks = () => {
             );
           })}
         </CardColumns>
+        <hr />
       </Container>
     </>
   );
