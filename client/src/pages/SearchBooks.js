@@ -109,10 +109,12 @@ const SearchBooks = () => {
               </Col>
             </Form.Row>
           </Form>
+
         </Container>
       </Jumbotron>
 
       <Container>
+        <hr />
         <h2>
           {searchedBooks.length
             ? `Viewing ${searchedBooks.length} results:`
@@ -144,6 +146,7 @@ const SearchBooks = () => {
             );
           })}
         </CardColumns>
+        <hr />
       </Container>
     </>
   );
