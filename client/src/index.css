@@ -19,6 +19,10 @@ h6 {
 hr {
   border: 3px solid  #746b6b;
 }
+
+a {
+  color: #746b6b!important;
+}
 .small {
   font-weight: 300;
   font-style: italic;
@@ -80,9 +84,12 @@ hr {
 
 .nav-pills .nav-link.active {
   color: #f4f0e5;
-  background-color: #928663;
+  background-color: #d1c294;
 }
 
+.navbar-expand-lg .navbar-nav .nav-link {
+  color: rgb(179, 142, 214);
+}
 .show {
   padding-left: 10px;
 }
