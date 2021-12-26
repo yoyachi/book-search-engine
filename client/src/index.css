@@ -15,6 +15,9 @@ h6 {
   color: #bdb08b;
   
 }
+h2 {
+  color: #d6aa31;
+}
 
 hr {
   border: 3px solid  #746b6b;
@@ -91,14 +94,14 @@ a {
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
-  color: rgb(179, 142, 214);
+  color: rgba(150, 177, 238, 0.972)!important;
 }
 .show {
   padding-left: 10px;
 }
 
 .navbar-dark .navbar-brand {
-  color: rgb(233, 182, 15);
+  color: rgb(233, 182, 15)!important;
 }
 
 .modal-content {
