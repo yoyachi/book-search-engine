@@ -62,6 +62,14 @@ a {
   font-style: normal;
 }
 
+.form-control {
+  border-radius: 0;
+  background-color: rgb(242, 241, 248);
+}
+
+.alert-danger {
+  border-radius: 0;
+}
 .navbar-brand {
   padding-left: 10px;
   animation-name: spin;
@@ -87,6 +95,10 @@ a {
 .nav-pills .nav-link.active {
   color: #f4f0e5;
   background-color: #d1c294;
+}
+
+.nav-pills .nav-link {
+  border-radius: 0;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
@@ -135,6 +147,7 @@ a {
 
 .form-control-lg {
   font-family: "AdihausDIN",Helvetica, Arial, sans-serif;
+  border-radius: 0 !important;
 }
 
 @keyframes  myAnimation {
