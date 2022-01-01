@@ -128,6 +128,9 @@ a {
 
 .card-img-top {
   border-radius: 0rem;
+  position: relative;
+  transition: 1s;
+  transform-style: preserve-3d;
 }
 
 .container {
