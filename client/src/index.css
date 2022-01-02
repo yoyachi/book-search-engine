@@ -117,9 +117,11 @@ a {
 }
 
 .card {
-  border-width: 0.4rem;
-  border-color: rgba(128, 128, 128, 0.098)!important;
+  border-width: 0.2rem;
+  border-color: rgb(230, 224, 224)!important;
   border-radius: 0rem;
+  padding: 2rem;
+  background-color: white;
 }
 
 .card-body {
