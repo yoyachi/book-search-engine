@@ -15,8 +15,9 @@ h6 {
   color: #bdb08b;
   
 }
-h2 {
+h1, h2  {
   color: #d6aa31;
+  padding-bottom: 2rem; padding-top: 2rem;
 }
 
 hr {
@@ -84,7 +85,7 @@ a {
 
 .btn-lg {
   background-color: #c5b78f;
-  border-color: #e7e4db;
+  border-color: #e7e4db!important;
 }
 
 .btn-lg:hover {
@@ -135,6 +136,7 @@ a {
   transform-style: preserve-3d;
 }
 
+
 .container {
   background-color: 323232!important;;
   border-radius: 0rem;
@@ -142,6 +144,8 @@ a {
   /*must do for animation*/
   animation-name: myAnimation;
   animation-duration: 3s;
+  position: sticky;
+  top: 0rem;
 
 }
 
