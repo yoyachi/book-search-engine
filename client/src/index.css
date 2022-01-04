@@ -136,7 +136,14 @@ a {
   transform-style: preserve-3d;
 }
 
+.card-title {
+  color: #252222!important;
+}
 
+.small
+{
+  color: #00509d;
+}
 .container {
   background-color: 323232!important;;
   border-radius: 0rem;
